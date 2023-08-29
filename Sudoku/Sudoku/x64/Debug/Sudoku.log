@@ -1,0 +1,6 @@
+﻿  Sudoku.cpp
+D:\Обучение\OOP\Курсовая\Sudoku\Sudoku\Sudoku.cpp(26,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Обучение\OOP\Курсовая\Sudoku\Sudoku\Sudoku.cpp(29,6): warning C4101: tmp_field: неиспользованная локальная переменная
+D:\Обучение\OOP\Курсовая\Sudoku\Sudoku\Sudoku.cpp(98,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Обучение\OOP\Курсовая\Sudoku\Sudoku\Sudoku.cpp(147,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sudoku.vcxproj -> D:\Обучение\OOP\Курсовая\Sudoku\x64\Debug\Sudoku.exe
